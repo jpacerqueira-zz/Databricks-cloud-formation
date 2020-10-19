@@ -1,4 +1,4 @@
-./idea
+./idea/*
 databricks-hcl-cluster-demo/tf-databrick-cluster/.terraform/plugins/darwin_amd64/lock.json
 databricks-hcl-cluster-demo/tf-databrick-cluster/.terraform/plugins/darwin_amd64/terraform-provider-aws_v3.11.0_x5
 databricks-hcl-cluster-demo/tf-databrick-cluster/terraform.tfstate
